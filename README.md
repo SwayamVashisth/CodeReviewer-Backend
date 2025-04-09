@@ -105,4 +105,4 @@ This project is licensed under the MIT License.
 
 For any queries or suggestions, reach out to the project maintainers.
 
-abhinavsharma23102003@gmail.com
+swayamvashsith54@gmail.com
